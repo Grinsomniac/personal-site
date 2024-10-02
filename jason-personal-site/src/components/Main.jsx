@@ -7,7 +7,7 @@ const Main = () => {
     // Main component rendering the hero section with animation and social icons
     return (
         <div id='main'>
-            <img className='w-full h-screen object-cover object-left scale-x-[-1]' src="heroBlackAbstract.jpg" alt="HeroImg" />
+            <img className='w-full h-screen object-cover object-left scale-x-[-1]' src="src/assets/imgSrc/hero.jpg" alt="HeroImg" />
             <div className='w-full h-screen absolute top-0 left-0 bg-white/50'> {/*This is the background overlay gradient*/}
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                     <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>I'm Jason</h1>
