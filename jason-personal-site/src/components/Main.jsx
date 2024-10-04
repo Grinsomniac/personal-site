@@ -17,9 +17,13 @@ const Main = () => {
                                 2000,
                                 'Engineer',
                                 2000,
-                                'Problem Solver',
+                                'Technologist',
                                 2000,
-                                'Tree Hugger',
+                                'Nature Lover',
+                                2000,
+                                'Cat Dad',
+                                2000,
+                                'Pack Leader',
                                 2000,
                             ]}
                             wrapper='div'
