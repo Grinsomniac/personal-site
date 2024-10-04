@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import Sidenav from './components/Sidenav';
 import Main from './components/Main';
-import WorkTimeline from './components/WorkTimeline'; {/*Import the WorkTimeline component*/}
+import WorkTimeline from './components/workTimeline';  {/*Import the WorkTimeline component*/}
+import Projects from './components/Projects';
 
 function App() {
 
@@ -10,6 +11,7 @@ function App() {
       <Sidenav />
       <Main />
       <WorkTimeline />
+      <Projects />
     </div>
   );
 }
