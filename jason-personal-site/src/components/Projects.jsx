@@ -7,7 +7,7 @@ import thumbnail4 from '../assets/projectThumbnails/thumbnail4.jpg'
 
 const Projects = () => {
   return (
-    <div id='prjects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
+    <div id='projects' className='max-w-[1040px] m-auto md:pl-20 p-4 py-16'>
         <h1 className='text-4xl font-bold text-center text-[#001b5e]'>Projects</h1>
         <p className='text-center py-8'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptatum illum veniam itaque accusantium quasi,
              rem doloribus, iusto rerum cum reiciendis sed. Quaerat natus vero ut veritatis tenetur esse quis?
