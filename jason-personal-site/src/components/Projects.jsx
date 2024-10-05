@@ -13,10 +13,10 @@ const Projects = () => {
              rem doloribus, iusto rerum cum reiciendis sed. Quaerat natus vero ut veritatis tenetur esse quis?
         </p>
         <div className='grid sm:grid-cols-2 gap-12'>
-            <ProjectItem title='Project 2' img={"src/assets/projectThumbnails/thumbnail1.jpg"} />
-            <ProjectItem title='Project 1' img={"src/assets/projectThumbnails/thumbnail1.jpg"} />
-            <ProjectItem title='Project 3' img={"src/assets/projectThumbnails/thumbnail1.jpg"} />
-            <ProjectItem title='Project 4' img={"src/assets/projectThumbnails/thumbnail1.jpg"} />
+            <ProjectItem title='Project 2' img={thumbnail1} />
+            <ProjectItem title='Project 1' img={thumbnail2} />
+            <ProjectItem title='Project 3' img={thumbnail3} />
+            <ProjectItem title='Project 4' img={thumbnail4} />
         </div>
     </div>
   )
