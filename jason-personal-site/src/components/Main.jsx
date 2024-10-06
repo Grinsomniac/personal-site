@@ -19,12 +19,8 @@ const Main = () => {
                                 2000,
                                 'a Technologist',
                                 2000,
-                                'a Nature Lover',
-                                2000,
-                                'a Cat Dad',
-                                2000,
-                                'a Pack Leader',
-                                2000,
+                                'a Problem Solver',
+                                2000
                             ]}
                             wrapper='div'
                             cursor={true}
